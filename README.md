@@ -19,7 +19,7 @@
 + 신윤정(pnu40209) : https://github.com/24shiny
 + 오지현(pnu40210) : https://github.com/ozzzih
 + 옥경림(pnu40211) : https://github.com/kyung89
-+ 유수영(pnu40212) : 
++ 유수영(pnu40212) : https://github.com/yuyeong00
 + 이나영(pnu40213) : https://github.com/akasha-rec
 + 이민지(pnu40214) : 
 + 이세련(pnu40215) : https://github.com/tpfus10
