@@ -13,7 +13,7 @@
 + 박윤환(pnu40205) : 
 + 박혜란(pnu40206) : 
 + 배지현(pnu40207) : 
-+ 신건영(pnu40208) : 
++ 신건영(pnu40208) : https://github.com/LinkDiscovery
 + 신윤정(pnu40209) : 
 + 오지현(pnu40210) : 
 + 옥경림(pnu40211) : 
