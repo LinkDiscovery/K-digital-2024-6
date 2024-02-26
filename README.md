@@ -7,7 +7,7 @@
  
 + 김도영(pnusw10) : https://github.com/DoyoungKim273
 + 김민정(pnusw18) : https://github.com/mjmmjmmjjjmj
-+ 김보성(pnusw19) : 
++ 김보성(pnusw19) : https://github.com/kingboseong
 + 김세영(pnu40201) : https://github.com/Engse-PNU-CSE
 + 김우정(pnu40202) : https://github.com/AwesomeJuneKim
 + 김정원(pnu40203) :  https://github.com/jwkim97211
