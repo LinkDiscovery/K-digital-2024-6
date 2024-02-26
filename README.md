@@ -21,7 +21,7 @@
 + 옥경림(pnu40211) : https://github.com/kyung89
 + 유수영(pnu40212) : https://github.com/yuyeong00
 + 이나영(pnu40213) : https://github.com/akasha-rec
-+ 이민지(pnu40214) : 
++ 이민지(pnu40214) : https://github.com/lmj0228
 + 이세련(pnu40215) : https://github.com/tpfus10
 + 이영인(pnu40216) : https://github.com/LeeYeongin
 + 이왕훈(pnu40217) : https://github.com/52hater/
