@@ -5,7 +5,7 @@
 + 곽동현(pnusw05) : https://github.com/etoto06
 + 김대희(pnusw07) : https://github.com/everydayday
  
-+ 김도영(pnusw10) : 
++ 김도영(pnusw10) : https://github.com/DoyoungKim273
 + 김민정(pnusw18) : https://github.com/mjmmjmmjjjmj
 + 김보성(pnusw19) : 
 + 김세영(pnu40201) : https://github.com/Engse-PNU-CSE
