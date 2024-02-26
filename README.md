@@ -27,7 +27,7 @@
 + 이왕훈(pnu40217) : https://github.com/52hater/
 + 이준승(pnu40218) : https://github.com/junschelin
 + 장민우(pnu40219) : https://github.com/gajahtml
-+ 전근우(pnu40220) : 
++ 전근우(pnu40220) : https://github.com/GeunW
 + 채수철(pnu40221) : 
 + 최인규(pnu40222) : https://github.com/bokuwahanya  
 + 황인상(pnu40223) : 
