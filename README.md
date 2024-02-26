@@ -25,7 +25,7 @@
 + 이세련(pnu40215) : https://github.com/tpfus10
 + 이영인(pnu40216) : https://github.com/LeeYeongin
 + 이왕훈(pnu40217) : https://github.com/52hater/
-+ 이준승(pnu40218) : 
++ 이준승(pnu40218) : https://github.com/junschelin
 + 장민우(pnu40219) : https://github.com/gajahtml
 + 전근우(pnu40220) : 
 + 채수철(pnu40221) : 
