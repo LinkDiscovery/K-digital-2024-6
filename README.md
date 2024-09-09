@@ -15,7 +15,7 @@
 + 박윤환(pnu40205) : https://github.com/yhp0308  
 + 박혜란(pnu40206) : https://github.com/RANNY1042
 + 배지현(pnu40207) : https://github.com/baejihyen
-+ 신건영(pnu40208) : 
++ 신건영(pnu40208) : https://github.com/LinkDiscovery/LinkDiscovery
 + 신윤정(pnu40209) : https://github.com/24shiny
 + 오지현(pnu40210) : https://github.com/ozzzih
 + 옥경림(pnu40211) : https://github.com/kyung89
